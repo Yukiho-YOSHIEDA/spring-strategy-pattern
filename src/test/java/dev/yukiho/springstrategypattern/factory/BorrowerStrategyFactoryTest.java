@@ -28,6 +28,7 @@ public class BorrowerStrategyFactoryTest {
     static final String PROFESSOR = "Professor";
     static final String GRADUATE_STUDENT = "GraduateStudent";
     static final String COLLEGE_STUDENT = "CollegeStudent";
+
     @Autowired
     BorrowerStrategyFactory borrowerStrategyFactory;
 
